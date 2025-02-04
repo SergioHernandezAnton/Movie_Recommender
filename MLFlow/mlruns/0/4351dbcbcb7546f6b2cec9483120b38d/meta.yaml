@@ -1,0 +1,15 @@
+artifact_uri: file:///app/MLflow/mlruns/0/4351dbcbcb7546f6b2cec9483120b38d/artifacts
+end_time: 1733931721631
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4351dbcbcb7546f6b2cec9483120b38d
+run_name: ALS Model Run 1
+run_uuid: 4351dbcbcb7546f6b2cec9483120b38d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733931700411
+status: 3
+tags: []
+user_id: xisco

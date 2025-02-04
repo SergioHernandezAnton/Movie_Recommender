@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1733931757373
+current_stage: None
+description: ''
+last_updated_timestamp: 1733931757373
+name: ALS retrain 11-12-2024_16.42 2
+run_id: cdd315e7b0074544911419dcd546c502
+run_link: ''
+source: file:///app/MLflow/mlruns/0/cdd315e7b0074544911419dcd546c502/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///app/MLflow/mlruns/0/cdd315e7b0074544911419dcd546c502/artifacts/model
+user_id: null
+version: 1

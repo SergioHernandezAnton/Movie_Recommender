@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1733931700184
+current_stage: None
+description: ''
+last_updated_timestamp: 1733931700184
+name: ALS_Recommender_Model_with_Predict_0
+run_id: 9677c9153b0d41e69d1f815174d82972
+run_link: ''
+source: file:///app/MLflow/mlruns/0/9677c9153b0d41e69d1f815174d82972/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///app/MLflow/mlruns/0/9677c9153b0d41e69d1f815174d82972/artifacts/model
+user_id: null
+version: 1

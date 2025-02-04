@@ -1,0 +1,7 @@
+Creating the image:
+
+docker build -t image_name .
+
+Creating the container:
+
+docker run -p 8501:8501 -p 5000:5000 -p 5001:5001 --name container_name image_name
